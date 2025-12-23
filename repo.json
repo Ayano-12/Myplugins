@@ -1,13 +1,13 @@
 [
     {
         "Author": "冲田绫乃喵★~",
-        "Name": "AyanoHimutuBox",
+        "Name": "AyanoHimituBox",
         "Punchline": "求求你们别开挂了：C",
         "Description": "求求你们别开挂了：C",
         "Tags": [
           "Cheating"
         ],
-        "InternalName": "AyanoHimutuBox",
+        "InternalName": "AyanoHimituBox",
         "AssemblyVersion": "1.0.0.0",
         "TestingAssemblyVersion": "1.0.0.0",
         "RepoUrl": "https://github.com/Ayano-12/Ayano-Himitu-Box/",
@@ -18,9 +18,9 @@
         "IsTestingExclusive": "False",
         "DownloadCount": 66666,
         "LastUpdate": 1618608322,
-        "DownloadLinkInstall": "https://github.com/Ayano-12/Ayano-Himitu-Box/releases/download/Ah/1.0.0.0.zip",
-        "DownloadLinkUpdate": "https://github.com/Ayano-12/Ayano-Himitu-Box/releases/download/Ah/1.0.0.0.zip",
-        "DownloadLinkTesting": "https://github.com/Ayano-12/Ayano-Himitu-Box/releases/download/Ah/1.0.0.0.zip",
+        "DownloadLinkInstall": "https://github.com/Ayano-12/Ayano-Himitu-Box/releases/download/Bh/Release.zip",
+        "DownloadLinkUpdate": "https://github.com/Ayano-12/Ayano-Himitu-Box/releases/download/Bh/Release.zip",
+        "DownloadLinkTesting": "https://github.com/Ayano-12/Ayano-Himitu-Box/releases/download/Bh/Release.zip",
         "IconUrl": "https://raw.githubusercontent.com/Ayano-12/Ayano-Himitu-Box/main/icon.png"
       }
   ]
