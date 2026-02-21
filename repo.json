@@ -8,8 +8,8 @@
           "Cheating"
         ],
         "InternalName": "AyanoHimituBox",
-        "AssemblyVersion": "1.1.1.1",
-        "TestingAssemblyVersion": "1.1.1.1",
+        "AssemblyVersion": "1.2.0.0",
+        "TestingAssemblyVersion": "1.2.0.0",
         "RepoUrl": "https://github.com/Ayano-12/Ayano-Himitu-Box/",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 14,
@@ -24,6 +24,7 @@
         "IconUrl": "https://raw.githubusercontent.com/Ayano-12/Ayano-Himitu-Box/main/icon.png"
       }
   ]
+
 
 
 
