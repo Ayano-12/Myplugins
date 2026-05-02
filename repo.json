@@ -8,19 +8,19 @@
           "Cheating"
         ],
         "InternalName": "AyanoHimituBox",
-        "AssemblyVersion": "1.4.0.3",
-        "TestingAssemblyVersion": "1.4.0.3",
+        "AssemblyVersion": "1.4.0.4",
+        "TestingAssemblyVersion": "1.4.0.4",
         "RepoUrl": "https://github.com/Ayano-12/Ayano_Himitu_Box2/",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 15,
         "TestingDalamudApiLevel": 15,
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadCount": 6670,
+        "DownloadCount": 6671,
         "LastUpdate": 1618608322,
-        "DownloadLinkInstall": "https://github.com/Ayano-12/Ayano_Himitu_Box2/releases/download/1.4.0.3/Release.zip",
-        "DownloadLinkUpdate": "https://github.com/Ayano-12/Ayano_Himitu_Box2/releases/download/1.4.0.3/Release.zip",
-        "DownloadLinkTesting": "https://github.com/Ayano-12/Ayano_Himitu_Box2/releases/download/1.4.0.3/Release.zip",
+        "DownloadLinkInstall": "https://github.com/Ayano-12/Ayano_Himitu_Box2/releases/download/1.4.0.4/Release.zip",
+        "DownloadLinkUpdate": "https://github.com/Ayano-12/Ayano_Himitu_Box2/releases/download/1.4.0.4/Release.zip",
+        "DownloadLinkTesting": "https://github.com/Ayano-12/Ayano_Himitu_Box2/releases/download/1.4.0.4/Release.zip",
         "IconUrl": "https://raw.githubusercontent.com/Ayano-12/Ayano_Himitu_Box2/main/icon.png"
       }
   ]
